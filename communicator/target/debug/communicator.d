@@ -1,0 +1,1 @@
+/home/juan/Projects/Rust/communicator/target/debug/communicator: /home/juan/Projects/Rust/communicator/src/client.rs /home/juan/Projects/Rust/communicator/src/lib.rs /home/juan/Projects/Rust/communicator/src/main.rs /home/juan/Projects/Rust/communicator/src/network/mod.rs /home/juan/Projects/Rust/communicator/src/network/server.rs
