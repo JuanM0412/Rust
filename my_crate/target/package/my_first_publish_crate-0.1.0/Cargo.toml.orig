@@ -1,0 +1,9 @@
+[package]
+name = "my_first_publish_crate"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "My first publish crate."
+authors = ["Juan Manuel <juangomezp1204@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,1 @@
+/home/juan/Projects/Rust/my_crate/target/package/my_first_publish_crate-0.1.0/target/debug/libmy_first_publish_crate.rlib: /home/juan/Projects/Rust/my_crate/target/package/my_first_publish_crate-0.1.0/src/lib.rs
